@@ -6,8 +6,8 @@ dist
 *.log
 
 # Foundry
-out
-cache_forge
-broadcast
-lib
-foundry.lock
+/out
+/cache_forge
+/broadcast
+/lib
+/foundry.lock
